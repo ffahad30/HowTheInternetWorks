@@ -1,0 +1,55 @@
+html{
+    background-color: #cfe2ff;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #343a40;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    font-family: Cambria, "Helvetica Neue", sans-serif;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #b9bbbe;
+}
+
+
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #cfe2ff;
+}
+
+
+ul.breadcrumb li {
+    display: inline;
+    font-size: 16px;
+}
+
+
+ul.breadcrumb li+li:before {
+    padding-top: 8px;
+    color: black;
+    content: "/\00a0";
+}
+
+
+ul.breadcrumb li a {
+    color: dimgray;
+    text-decoration: none;
+}
+
+
+ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+}
+
