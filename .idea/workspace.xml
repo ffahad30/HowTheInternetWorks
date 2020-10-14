@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee34d195-ec23-4995-9f2b-ce4d74e103b3" name="Default Changelist" comment="Task: added and linked IP Addresses, Packets and Routing html and css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTP.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,15 +116,6 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
