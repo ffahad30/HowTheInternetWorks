@@ -19,10 +19,6 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee34d195-ec23-4995-9f2b-ce4d74e103b3" name="Default Changelist" comment="Task: added content, updated HTML and CSS for about">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain.css" beforeDir="false" afterPath="$PROJECT_DIR$/domain.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/domain.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602454542404</updated>
+      <workItem from="1602454545332" duration="4085000" />
     </task>
     <task id="LOCAL-00001" summary="Task: added and linked index html and css">
       <created>1602460485791</created>
@@ -75,12 +72,12 @@
       <option name="project" value="LOCAL" />
       <updated>1602460485791</updated>
     </task>
-    <task id="LOCAL-00002" summary="Feature: added navigation bar to about">
-      <created>1602464917206</created>
+    <task id="LOCAL-00002" summary="Task: added and linked about html and css">
+      <created>1602460865571</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1602464917206</updated>
+      <updated>1602460865571</updated>
     </task>
     <task id="LOCAL-00003" summary="Task: added and linked domain names and ICANN html and css">
       <created>1602461209958</created>
@@ -96,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602461582176</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feature: added breadcrumbs and background color to DNS">
+      <created>1602632282526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602632282526</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bug: Fixing breadcrumbs and background color">
+      <created>1602632404731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602632404731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

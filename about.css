@@ -1,12 +1,16 @@
+html{
+    background-color: #fdfdfe;
+}
+
 .navbar {
     overflow: hidden;
-    background-color: #383838;
+    background-color: #343a40;
 }
 
 .navbar a {
     float: left;
     font-size: 16px;
-    font-family: Cambria, "Helvetica Neue", sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -14,5 +18,71 @@
 }
 
 .navbar a:hover {
-    background-color: #042454;
+    background-color: #b9bbbe;
 }
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #fdfdfe;
+}
+
+
+ul.breadcrumb li {
+    display: inline;
+    font-size: 16px;
+}
+
+
+ul.breadcrumb li+li:before {
+    padding-top: 8px;
+    color: #01447e;
+    content: "/\00a0";
+}
+
+
+ul.breadcrumb li a {
+    color: #0257d5;
+    text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+}
+.content {
+    width: 1300px;
+    font: 22px "Arial", sans-serif;
+    line-height: normal;
+    white-space: normal;
+}
+html{
+    padding: 25px 50px 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    alignment: center;
+}
+h1 {
+    alignment: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+p{
+    alignment: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    width: fit-content;
+}
+a {
+    color: #0257d5;
+}
+a:hover {
+    color: #01447e;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+    alignment: center;
+    padding: 35px;
+    display: block;
+}
+
+
