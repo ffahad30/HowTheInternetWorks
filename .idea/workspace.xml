@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee34d195-ec23-4995-9f2b-ce4d74e103b3" name="Default Changelist" comment="Task: added and linked IP Addresses, Packets and Routing html and css">
+    <list default="true" id="ee34d195-ec23-4995-9f2b-ce4d74e103b3" name="Default Changelist" comment="Task: added content, updated HTML and CSS for HTTP">
+      <change beforePath="$PROJECT_DIR$/W3C.css" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="IP" />
+        <entry key="$PROJECT_DIR$" value="HTTP" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
