@@ -36,7 +36,6 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="about" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602454542404</updated>
-      <workItem from="1602454545332" duration="4085000" />
     </task>
     <task id="LOCAL-00001" summary="Task: added and linked index html and css">
       <created>1602460485791</created>
@@ -86,28 +84,6 @@
       <option name="project" value="LOCAL" />
       <updated>1602461209958</updated>
     </task>
-    <task id="LOCAL-00004" summary="Task: added and linked IP Addresses, Packets and Routing html and css">
-      <created>1602461582176</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1602461582176</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Feature: added breadcrumbs and background color to DNS">
-      <created>1602632282526</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602632282526</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Bug: Fixing breadcrumbs and background color">
-      <created>1602632404731</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1602632404731</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
